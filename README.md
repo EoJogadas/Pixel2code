@@ -1,0 +1,1 @@
+This program offers a better solution for 2D game design. The goal of using this app is to make games lighter, allowing you to create much larger and lighter games that can be run directly in your browser. 
